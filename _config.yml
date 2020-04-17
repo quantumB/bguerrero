@@ -1,14 +1,14 @@
 # Site
 title:              "Bernardino Guerrero"
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Just a man passionate about software development.'
+description:        "I've iOS developer for the last 9+ years"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://quantumb.github.io/bguerrero/
 
 # Jekyll
 permalink:          /:title/
@@ -39,18 +39,18 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            quantum_b
-facebook:           username
-github-url:         username
+#facebook:          username
+github-url:         quantumb
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           bernardino-guerrero-ibarra-30013b41
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
